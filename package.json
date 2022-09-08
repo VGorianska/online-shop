@@ -1,0 +1,14 @@
+{
+  "name": "online_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dom.js",
+  "scripts": {
+    "start": "ws --spa index.html"
+  },
+  "author": "Gorianska",
+  "license": "ISC",
+  "dependencies": {
+    "local-web-server":"^5.2.1"
+  }
+}

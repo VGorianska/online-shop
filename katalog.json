@@ -1,0 +1,93 @@
+[
+  {
+    "title": "HardWear",
+    "id": "63982407",
+    "img": [
+      "./img/hardweardoppelte.webp",
+      "./img/hardweardoppelte-2.webp"
+    ],
+    "price": 1550,
+    "sizes": "m",
+    "details": "HardWear ist auf eine elegante Art rebellisch und spiegelt dabei die Persönlichkeit der Frauen in New York City wider. Mit ihrem geradlinigen Industriedesign sind diese doppelten langen Gliederohrringe ein kühnes Statement."
+  },
+  {
+    "title": "Peretti",
+    "id": "60103717",
+    "img": [
+      "./img/elsa-peretti.webp",
+      "./img/elsa-peretti-2.webp"
+    ],
+    "price": 1250,
+    "size": "l",
+    "details": "Die Form passt sich an und fällt ergonomisch fließend über die Konturen des Körpers. Schalohrringe aus Sterlingsilber, für durchstochene Ohren. 9 cm lang. Copyright der Originaldesigns by Elsa Peretti®.",
+    "inBasket": ""
+  },
+  {
+    "title": "Stab-Ohrringe",
+    "id": "62271787",
+    "img": [
+      "./img/tstab.webp",
+      "./img/tstab-2.webp"
+    ],
+    "price": 4650,
+    "sizes": "l",
+    "details": "Diese ausdrucksstarken mit Diamanten akzentuierten Stäbe sind die moderne Interpretation eines Ohrhängers."
+  },
+  {
+    "title": "Gliederohrringe",
+    "id": "70607107",
+    "img": [
+      "./img/hardweargliederohrringe.webp",
+      "./img/hardweargliederohrringe-2.webp"
+    ],
+    "price": 2450,
+    "sizes": "m",
+    "details": "Die HardWear Kollektion ist inspiriert vom Lebensgefühl und der Energie New Yorks. Diese mit hoher Präzision gefertigten Ohrhänger in 18 Karat Gelbgold bestechen mit Süßwasserperlen in abgestuften Proportionen."
+  },
+  {
+    "title": "Vine Ohrhänger",
+    "id": "69523528",
+    "img": [
+      "./img/victoriavine.webp",
+      "./img/victoriavine-2.webp"
+    ],
+    "price": 1540,
+    "sizes": "l",
+    "details": "Inspiriert von der Natur, fangen die Tiffany Victoria® Designs die fließende Bewegung von Blumen, Reben und Blättern mit einer Mischung aus meisterhaft geschliffenen Diamanten ein."
+  },
+  {
+    "title": "Yard® Open Heart",
+    "id": "60145964",
+    "img": [
+      "./img/open-heart.webp",
+      "./img/open-heart-2.webp"
+    ],
+    "price": 940,
+    "sizes": "s",
+    "details": "Ohrhänger aus Sterlingsilber mit zwei runden Brillanten. 4 cm lang. Offene Herzen, 7 mm. Gesamtkaratgewicht 0,06 kt."
+  },
+  {
+    "title": "Mesh Quastenohrringe",
+    "id": "60145952",
+    "img": [
+      "./img/quastenohrringe.webp",
+      "./img/quastenohrringe-2.webp"
+    ],
+    "price": 680,
+    "sizes": "m",
+    "details": "Die Form passt sich an und fällt ergonomisch fließend über die Konturen des Körpers. Quastenohrringe aus Sterlingsilber mit Süßwasserzuchtperlen. 7 cm lang. Perlen, 4,5-5 mm."
+  },
+
+  {
+    "title": "Ohrringe mit drei Kugeln",
+    "id": "60006746",
+    "img": [
+      "./img/drei-kugeln.webp",
+      "./img/drei-kugeln-2.webp"
+    ],
+    "price": 1650,
+    "sizes": "s",
+    "details": "HardWear ist auf eine elegante Art rebellisch und spiegelt dabei die Persönlichkeit der Frauen in New York City wider. Die Ohrringe, die mit Spannung und Proportionen spielen, sind perfekt balanciert und werden von einer feinen Kette gehalten."
+  }
+
+]

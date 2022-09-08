@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/farben.css">
+  <script src="https://kit.fontawesome.com/a579f8d9ef.js" crossorigin="anonymous"></script>
+  <script src="dom.js"></script>
+  <script src="js/index.js" defer></script>
+  <title>Online Shop</title>
+</head>
+
+<body>
+
+  <header id="fixedTop">
+    <h1 class="logo">
+      <span class="text-primary">Jewelry <i class="fa-solid fa-gem"></i></span> Shop
+    </h1>
+    <div id="basket">
+      <label for="cartChecker">
+        <div id="itemsNum"></div>
+        <i class="fa-solid fa-cart-shopping fa-2x"></i>
+      </label>
+    </div>
+  </header>
+  <input type="checkbox" name="checkbox" id="cartChecker">
+
+  <nav id="shopCart">
+    <ul id="cardList">
+    </ul>
+    <div id="cartContentInfo" class="spaseAround">
+      <button id="clearAllBtn" class="btnM">CLEAR CART</button>
+      <button id="payBtn" class="btnM">PAY <span id="totalCartPrice"></span></button>
+    </div>
+  </nav>
+
+  <h3>Earrings</h3>
+  <div class="wrap1000">
+    <img src="img/1_ohrstecker.webp" alt="">
+    <img src="img/2_creolen.webp" alt="">
+    <img src="img/3_ohrhaenger.webp" alt="">
+    <img src="img/4_statement.webp" alt="">
+
+  </div>
+  <main id="content" class="wrapper1100"></main>
+  <footer></footer>
+</body>
+
+</html>
